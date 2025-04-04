@@ -22,13 +22,12 @@ In this task, you'll create your first JavaScript program and push it to GitHub.
 
 ## Step 2: Write your first program
 - In `hello.js`, write code that:
-  - Create a variable that has your name
-  - Print this to the terminal!
+    - Print your name to the terminal!
 
 ## Step 3: Commit your changes
-- Add your new file to Git using the command line
-- Create a commit with a descriptive message
-- Push your changes to your GitHub repository
+- Add your new file to Git using the command line `git add .`
+- Create a commit with a descriptive message `git commit -m "THIS IS A VERY DESCRIPTIVE MESSAGE"`
+- Push your changes to your GitHub repository `git push`
 
 ## Step 4: Verify your submission
 - Go to your GitHub repository in a web browser
