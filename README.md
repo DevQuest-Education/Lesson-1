@@ -40,6 +40,8 @@ What are variables?
 
 ## 2 Understanding `let` and `const` in JavaScript
 
+**Before you even make a variable and give it a name and a value, you need to first declare it. There are two types of declarations we use in this course for this term, `let` and `const`. There is another one called `var` but we will not be looking into that for this term (or ever really, it is not used as much anymore).**
+
 ### `let` Variables
 
 The `let` keyword creates variables that can be reassigned later in your code:
