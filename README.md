@@ -17,14 +17,13 @@ Welcome to your first lesson!
 In this task, you'll create your first JavaScript program and push it to GitHub. Follow these steps:
 
 ## Step 1: Create a new file
-- Create a new file named `hello.js` in the Week1 folder
+- Create a new file named `hello.js` in the Lesson-1 folder
 - This will be the file where you write your first JavaScript code
 
 ## Step 2: Write your first program
 - In `hello.js`, write code that:
-  - Creates a variable with your name
-  - Uses `console.log()` to display a greeting message including your name
-  - Uses `console.log()` to display a second message about what you hope to learn in this class
+  - Create a variable that has your name
+  - Print this to the terminal!
 
 ## Step 3: Commit your changes
 - Add your new file to Git using the command line
@@ -33,14 +32,8 @@ In this task, you'll create your first JavaScript program and push it to GitHub.
 
 ## Step 4: Verify your submission
 - Go to your GitHub repository in a web browser
-- Navigate to the Week1 folder
+- Navigate to the Lesson-1 folder
 - Confirm that your `hello.js` file appears with the code you wrote
 
-## Expected Output
-When someone runs your program, they should see:
-- A personalized greeting with your name
-- A message about what you want to learn in this class
+# Task 2: Let's create a new file and do some complicated things
 
-> 💡 **Challenge (Optional)**
-> 
-> Can you add a third message that calculates and shows how old you'll be in 5 years?
